@@ -1,0 +1,34 @@
+Part;Value;Device;Package;Description;MF;OC_FARNELL;LINK;PRICE (u)
+ATMEGA;ATMEGA328p;AT90S4433P;DIL28-3;MICROCONTROLLER;;;;
+Q1;16MHz;XTAL/S;QS;CRYSTAL;;1640875;http://uk.farnell.com/euroquartz/16-000mhz-hc49-4h-30-50-40-18pf-atf/crystal-16mhz-18pf-through-hole/dp/1640875;£1.36 
+;;;;;;;;
+;;;;;;;;
+RELAY;;;;;;;;
+CONTACT;D6BK-1114P;D6BK-1114P;D6BK-1114C;;;1536172;http://uk.farnell.com/omron-electronic-components/g6bk-1114p-us-dc3/power-relay-spst-no-3vdc-5a-pc/dp/1536172;£6.88
+STARTER;DK1-L1-12V;DK1-L1-12V;DK1-L1-12V;;;1703718;http://uk.farnell.com/panasonic-electric-works/dk1a-12v-f/power-relay-12v/dp/1703718?Ntt=1703718;£5.90 
+;;;;;;;;
+CONNECTORS;;;;;;;;
+VIN;1751248;1751248;1751248;MKDS 1/ 2-3,5 Printklemme;;unknown;terminal 3,5mm *2;
+X3;1751264;1751264;1751264;MKDS 1/ 4-3,5 Printklemme;;unknown;terminal 3,5mm *4;
+I²C;;;;;;;terminal 2,54mm *2;
+;;;;;;;;
+;;;;;;;;
+C1 ,C2;100nF;C-EU050-030X075;C050-030X075;CAPACITOR, European symbol;;;;
+C3 ,C4;10uF;CPOL-EUE5-6;E5-6;POLARIZED CAPACITOR, European symbol;;;;
+CX1 ,CX2;18pF;C-EU0603-RND;C0603-ROUND;CAPACITOR, European symbol;;;;
+;;;;;;;;
+R2;8,2k;R-EU_0207/10;0207/10;RESISTOR, European symbol;;;;
+R3 ,R4;1k;R-EU_0207/10;0207/10;RESISTOR, European symbol;;;;
+;;;;;;;;
+D1 ,D2 ,D3 ,D4;1N4004;1N4004;DO41-10;DIODE;;1467510;http://uk.farnell.com/fairchild-semiconductor/1n4004/diode-standard-1a-400v-do-41/dp/1467510;£0.08
+Q2 ,Q3;2N2222A;2N2222A;TO18;NPN Transistor;;9207120;http://uk.farnell.com/multicomp/2n2222a/transistor-npn-40v-800ma-to-18/dp/9207120;£0.639 
+;;;;;;;;
+REG1;LM1084 3,3;LM1086CT-3.3;TO220;Positive VOLTAGE REGULATOR;;1469037;http://uk.farnell.com/texas-instruments/lm1084it-3-3-nopb/ic-v-reg-linear-3-3v/dp/1469037;£1.86
+RST;;10-XX;B3F-10XX;OMRON SWITCH;;176432;http://uk.farnell.com/omron-electronic-components/b3f-1000/switch-spno-0-05a-24v-tht-0-98n/dp/176432?Ntt=176432;£0.167 
+;;;;;;;;
+optionnal;;;;;;;;
+BUZZER;F/TMB;F/TMB;F/TMB;BUZZER Source: Buerklin;;;;
+EXT;;FE07-1;FE07;FEMALE HEADER;;unknown;;
+R5;100;R-EU_0207/10;0207/10;RESISTOR, European symbol;;;;
+ON;;;LED3MM;;;;;
+R1;560;R-EU_0207/10;0207/10;RESISTOR, European symbol;;;;
